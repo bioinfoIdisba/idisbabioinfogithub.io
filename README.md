@@ -3,6 +3,7 @@
 <head>
 <title> Pàgina personal </title>    
 </head>  
+Pàgina personal 
 <style>
     .body{
         color:rgb(168, 168, 238) ;
