@@ -1,3 +1,2 @@
-# idisbabioinfogithub.io
-theme: jekyll-theme-minimal
-<b> Pàgina en costrucció </b>
+title: [The title of your site]
+description: [A short description of your site's purpose]
